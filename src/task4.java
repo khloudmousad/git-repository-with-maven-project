@@ -4,10 +4,9 @@ public class task4 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
        int  counteq=0;
-
         int[] input = new int[4];
         System.out.print("Enter first number : ");
-       input[0]=  scanner.nextInt();
+       input[0]=  s1canner.nextInt();
         System.out.print("Enter second number : ");
         input[1]=  scanner.nextInt();
         System.out.print("Enter third number : ");
