@@ -4,6 +4,7 @@ public class task4 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
        int  counteq=0;
+       int countuneq=0;
 
         int[] input = new int[4];
         System.out.print("Enter first number : ");
